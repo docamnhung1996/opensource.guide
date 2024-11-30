@@ -30,7 +30,7 @@ Seja codificando, desenhando interface do usuário, desenhando gráfico, escreve
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
-Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões em conferências ou conversas online sobre burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões, em conferências ou conversas online sobre burritos.
 
 ### Encontre mentores e ensine outras pessoas
 
@@ -68,14 +68,6 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
 
 Mesmo se você gosta de escrever código, outros tipos de contribuições são uma ótima maneira de se envolver com um projeto e conhecer outros membros da comunidade. Construir esses relacionamentos lhe dará oportunidades de trabalhar em outras partes do projeto.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug do open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Você gosta de planejar eventos?
 
 * Organize workshops ou encontros sobre o projeto, [como @fzamperin fez para NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -94,7 +86,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 * Escreva e melhore a documentação do projeto
 * Organize uma pasta de exemplos mostrando como o projeto é usado
 * Inicie uma newsletter para o projeto ou selecione resumos da lista de discussão
-* Escreva tutoriais para o projeto, [como os contribuidores do PyPA fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escreva tutoriais para o projeto, [como os contribuidores do PyPA fizeram](https://packaging.python.org/)
 * Escreva uma tradução para a documentação do projeto
 
 <aside markdown="1" class="pquote">
@@ -215,9 +207,8 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
@@ -236,7 +227,7 @@ Aqui está um checklist útil para avaliar se um projeto é bom para novos contr
 
 **O projeto aceita contribuições ativamente**
 
-Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um repositório.
+Veja a atividade de commit no branch main. No GitHub, você pode ver essas informações na página inicial de um repositório.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -487,7 +478,7 @@ Se este é o seu primeiro pull request, confira [Faça um pull request](http://m
 
 ## O que acontece depois que você envia uma contribuição
 
-Você fez isso! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
+Você conseguiu! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
 
 Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
@@ -517,6 +508,6 @@ Sua contribuição pode ou não ser aceita no final. Espero que você não tenha
 
 Viva! Você fez uma contribuição open source com sucesso!
 
-## Você fez isso!
+## Você conseguiu!
 
 Se você acabou de fazer sua primeira contribuição open source ou está procurando novas maneiras de contribuir, esperamos que você esteja inspirado a agir. Mesmo que sua contribuição não tenha sido aceita, não se esqueça de agradecer quando um mantenedor se esforçar para ajudá-lo. O open source é feito por pessoas como você: uma issue, pull request, comentário ou high-five de cada vez.

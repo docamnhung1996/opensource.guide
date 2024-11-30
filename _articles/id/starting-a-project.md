@@ -45,7 +45,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
 
 * **Adopsi dan menggabungkan:** Proyek open source bisa digunakan oleh siapapun untuk hampir semua tujuan. Bahkan bisa digunakan untuk membangun proyek lain. [WordPress](https://github.com/WordPress), sebagai contoh, dimulai dari hasil _fork_ dari proyek yang sudah ada bernama [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://sourcecode.cio.gov/), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://www.cio.gov/2016/08/11/peoples-code.html), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source bukan hanya untuk perangkat lunak saja. Anda bisa membuka tentang apa saja mulai dari kumpulan data hingga buku. Silahkan lihat [GitHub Explore](https://github.com/explore) untuk ide yang dapat Anda buka sebagai open source.
 
@@ -250,7 +250,7 @@ Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bag
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
